@@ -1,0 +1,75 @@
+{
+    "name": "Sendloop",
+    "description": "Build a long-lasting communication with your customers. Marketing automation and email marketing are the two most powerful channels.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/651-sendloop.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sendloop\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sendloop",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/651-sendloop.jpg",
+            "humanURL": "http:\/\/sendloop.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sendloop-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/*.sendloop.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/sendloop.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/SendloopBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sendloop"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/sendloop"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/sendloop.com\/help\/article\/api-001\/getting-started"
+        },
+        {
+            "type": "Email",
+            "url": "legal@sendloop.com"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@sendloop.com"
+        },
+        {
+            "type": "Email",
+            "url": "hello@sendloop.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/sendloop"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/sendloop.com\/"
+        }
+    ]
+}
